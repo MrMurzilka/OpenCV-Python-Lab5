@@ -1,0 +1,10 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+env/
+
+# Результаты обработки и тестовые картинки (опционально)
+result_*.jpg
+test_image.jpg
