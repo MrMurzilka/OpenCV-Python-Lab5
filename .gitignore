@@ -7,6 +7,6 @@ env/
 
 # Результаты обработки и тестовые картинки (опционально)
 result_*.jpg
-test_image.jpg
+input_image.jpg
 
 *.md
